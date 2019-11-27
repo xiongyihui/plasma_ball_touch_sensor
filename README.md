@@ -16,7 +16,7 @@ When we touch a plasma ball, the plasma filaments will be more brighter and be a
 ## Build the hardware
 To sensing the current, A extension board of [Pitaya Go](https://github.com/makerdiary/pitaya-go) has been built. As the Pitaya Go supports USB, BLE and Wi-Fi, it is very easy to connect the touch sensor with other objects.
 
-![img/hardware.jpg]
+![](img/hardware.jpg)
 
 In this repo, we are going to use it into a USB or BLE one-key keyboard, so we can easily use it with a computer or a phone.
 
