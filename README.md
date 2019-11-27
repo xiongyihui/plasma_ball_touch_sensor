@@ -3,7 +3,7 @@ Plasma Ball Touch Sensor
 
  Plasma ball invented by Nikola Tesla  was quite popular in the 1980s. It was often a standalone exhibition in a science museum. However, now in 2019, we have a different way to use it. We can use it as a touch sensor to create interactive objects.
 
-[[![](img/plasma_ball.jpg)]()](https://www.youtube.com/watch?v=yRZnoBP5i44)
+[![](img/plasma_ball.jpg)](https://www.youtube.com/watch?v=yRZnoBP5i44)
 
 ## How to turn a plasma ball into a touch sensor
 
